@@ -42,7 +42,7 @@ SparseDC: Depth Completion From Sparse and Non-uniform Inputs
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='https://dongzhenwhu.github.io/publications/teasers/PC2-PU.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='https://dongzhenwhu.github.io/publications/teasers/PC2-PU.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PC²-PU: Patch Correlation and Point Correlation for Effective Point Cloud Upsampling
