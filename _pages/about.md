@@ -56,6 +56,7 @@ PC²-PU: Patch Correlation and Point Correlation for Effective Point Cloud Upsam
 </div>
 
 # 🎖 Honors and Awards
+- *2024.05*, 中国第一届空间信息技术及产业发展大会 "优秀学生(硕博生)"。
 
 # 💬 Conference oral presentation
 - *2024.05*, 中国第一届空间信息技术及产业发展大会
