@@ -24,10 +24,24 @@ My research interest lies in the field of 3D Computer Vision, particularly inclu
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 Co-first author paper [EGIINet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/pdf/2407.02887) is accepted by ECCV 2024!
 - *2024.05*: &nbsp;🎉🎉 Our paper [SparseDC: Depth Completion From Sparse and Non-uniform Inputs](https://doi.org/10.1016/j.inffus.2024.102470) is accepted by Informarion Fusion!
 
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='https://dongzhenwhu.github.io/publications/teasers/Explicitly_Guided.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion
+
+Hang Xu<sup>*</sup>, **Chen Long<sup>*</sup>**, Wenxiao Zhang<sup>&dagger;</sup>, Yuan Liu, Zhen Cao, Zhen Dong, Bisheng Yang
+
+<span style="color:red">**ECCV 2024 (CCF-B)**</span>
+
+[[Paper]](https://arxiv.org/pdf/2407.02887), [[Code]](https://github.com/WHU-USI3DV/EGIInet)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='https://dongzhenwhu.github.io/publications/teasers/sparseDC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,7 +70,7 @@ PC²-PU: Patch Correlation and Point Correlation for Effective Point Cloud Upsam
 </div>
 
 # 🎖 Honors and Awards
-- *2024.05*, 中国第一届空间信息技术及产业发展大会 "优秀学生(硕博生)"。
+- *2024.05*, 中国第一届空间信息技术及产业发展大会 "优秀学生报告(硕博生)"。
 
 # 💬 Conference oral presentation
 - *2024.05*, 中国第一届空间信息技术及产业发展大会
