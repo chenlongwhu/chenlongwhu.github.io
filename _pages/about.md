@@ -24,11 +24,25 @@ My research interest lies in the field of 3D Computer Vision, particularly inclu
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Co-author paper [INF-PCA: Implicit Neural Field-Based Interactive Point Cloud Semantic Annotation](https://doi.org/10.1109/TITS.2024.3496938) is accepted by TITS.
 - *2024.07*: &nbsp;🎉🎉 Co-first author paper [EGIINet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/pdf/2407.02887) is accepted by ECCV 2024!
 - *2024.05*: &nbsp;🎉🎉 Our paper [SparseDC: Depth Completion From Sparse and Non-uniform Inputs](https://doi.org/10.1016/j.inffus.2024.102470) is accepted by Informarion Fusion!
 
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='https://liuchong-911.github.io/images/INF-PCA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+INF-PCA: Implicit Neural Field-Based Interactive Point Cloud Semantic Annotation
+
+Chong Liu<sup>*</sup>, Xu Han<sup>*</sup>, Weihong Huang, **Chen Long**, Wang Wang, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang
+
+<span style="color:red">**TITS (IF:7.9)**</span>
+
+[[Paper]](https://doi.org/10.1109/TITS.2024.3496938)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='https://dongzhenwhu.github.io/publications/teasers/Explicitly_Guided.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,6 +84,7 @@ PC²-PU: Patch Correlation and Point Correlation for Effective Point Cloud Upsam
 </div>
 
 # 🎖 Honors and Awards
+- *2024.10*, 获得武汉大学优秀研究生称号
 - *2024.05*, 中国第一届空间信息技术及产业发展大会 "优秀学生报告(硕博生)"。
 
 # 💬 Conference oral presentation
