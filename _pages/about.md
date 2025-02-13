@@ -32,7 +32,7 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='https://github.com/DDAKUN/WHU-Synthetic-Dataset/blob/main/media/teaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/WHU_Synthetic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 WHU-Synthetic: A Synthetic Perception Dataset for 3D Multi-task Model Research
