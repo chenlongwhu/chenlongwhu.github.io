@@ -24,12 +24,26 @@ My research interest lies in the field of 3D Computer Vision, particularly inclu
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Co-first author paper [WHU-Synthetic: A Synthetic Perception Dataset for 3D Multi-task Model Research](https://doi.org/10.1109/TGRS.2025.3541072) is accepted by TGRS.
 - *2024.11*: &nbsp;🎉🎉 Co-author paper [INF-PCA: Implicit Neural Field-Based Interactive Point Cloud Semantic Annotation](https://doi.org/10.1109/TITS.2024.3496938) is accepted by TITS.
 - *2024.07*: &nbsp;🎉🎉 Co-first author paper [EGIINet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/pdf/2407.02887) is accepted by ECCV 2024!
 - *2024.05*: &nbsp;🎉🎉 Our paper [SparseDC: Depth Completion From Sparse and Non-uniform Inputs](https://doi.org/10.1016/j.inffus.2024.102470) is accepted by Informarion Fusion!
 
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='https://github.com/DDAKUN/WHU-Synthetic-Dataset/blob/main/media/teaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+WHU-Synthetic: A Synthetic Perception Dataset for 3D Multi-task Model Research
+
+Jiahao zhou<sup>*</sup>, **Chen Long<sup>*</sup>**, Yue Xie, Jialiang Wang, Conglang Zhang, Boheng Li, Haiping Wang, Zhen Chen<sup>&dagger;</sup>, Zhen Dong
+
+<span style="color:red">**TGRS 2025 (IF:7.5)**</span>
+
+[[Paper]](https://doi.org/10.1109/TGRS.2025.3541072)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='https://liuchong-911.github.io/images/INF-PCA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,7 +52,7 @@ INF-PCA: Implicit Neural Field-Based Interactive Point Cloud Semantic Annotation
 
 Chong Liu<sup>*</sup>, Xu Han<sup>*</sup>, Weihong Huang, **Chen Long**, Wang Wang, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang
 
-<span style="color:red">**TITS (IF:7.9)**</span>
+<span style="color:red">**TITS 2024 (IF:7.9)**</span>
 
 [[Paper]](https://doi.org/10.1109/TITS.2024.3496938)
 </div>
