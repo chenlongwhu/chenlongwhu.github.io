@@ -24,6 +24,7 @@ My research interest lies in the field of 3D Computer Vision, particularly inclu
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Co-author paper [Cross-modal semantic transfer for point cloud semantic segmentation](https://doi.org/10.1016/j.isprsjprs.2025.01.024) is accepted by ISPRS J.
 - *2025.02*: &nbsp;🎉🎉 Co-first author paper [WHU-Synthetic: A Synthetic Perception Dataset for 3D Multi-task Model Research](https://doi.org/10.1109/TGRS.2025.3541072) is accepted by TGRS.
 - *2024.11*: &nbsp;🎉🎉 Co-author paper [INF-PCA: Implicit Neural Field-Based Interactive Point Cloud Semantic Annotation](https://doi.org/10.1109/TITS.2024.3496938) is accepted by TITS.
 - *2024.07*: &nbsp;🎉🎉 Co-first author paper [EGIINet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/pdf/2407.02887) is accepted by ECCV 2024!
@@ -31,6 +32,19 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS J 2025</div><img src='https://a4152684.github.io/publication/freeseg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Cross-modal semantic transfer for point cloud semantic segmentation
+
+Zhen Cao<sup>*</sup>, Xiaoxin Mi<sup>*</sup>, Bo Qiu, Zhipeng Cao, **Chen Long**, Xinrui Yan, Chao Zheng, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang
+
+<span style="color:red">**ISPRS J 2025 (IF:10.6)**</span>
+
+[[Paper]](https://doi.org/10.1016/j.isprsjprs.2025.01.024), [[Code]](https://github.com/a4152684/StreetSeg)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/WHU_Synthetic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,7 +55,7 @@ Jiahao zhou<sup>*</sup>, **Chen Long<sup>*</sup>**, Yue Xie, Jialiang Wang, Cong
 
 <span style="color:red">**TGRS 2025 (IF:7.5)**</span>
 
-[[Paper]](https://doi.org/10.1109/TGRS.2025.3541072)
+[[Paper]](https://doi.org/10.1109/TGRS.2025.3541072), [[Code]](https://github.com/WHU-USI3DV/WHU-Synthetic)
 </div>
 </div>
 
