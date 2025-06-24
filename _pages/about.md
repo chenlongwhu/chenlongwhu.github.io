@@ -24,6 +24,8 @@ My research interest lies in the field of 3D Computer Vision, particularly inclu
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 Our paper [Unleashing the Reasoning Capabilities of Vision Language Models for Effective Image-based
+Roadside Tree 3D Measurement](https://github.com/WHU-USI3DV) is accepted by ISPRS MMT 2025, and won the **Best Paper Award**!
 - *2025.02*: &nbsp;🎉🎉 Co-author paper [Cross-modal semantic transfer for point cloud semantic segmentation](https://doi.org/10.1016/j.isprsjprs.2025.01.024) is accepted by ISPRS J.
 - *2025.02*: &nbsp;🎉🎉 Co-first author paper [WHU-Synthetic: A Synthetic Perception Dataset for 3D Multi-task Model Research](https://doi.org/10.1109/TGRS.2025.3541072) is accepted by TGRS.
 - *2024.11*: &nbsp;🎉🎉 Co-author paper [INF-PCA: Implicit Neural Field-Based Interactive Point Cloud Semantic Annotation](https://doi.org/10.1109/TITS.2024.3496938) is accepted by TITS.
@@ -32,6 +34,19 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS MMT 2025</div><img src='images/VLM_TMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Unleashing the Reasoning Capabilities of Vision Language Models for Effective Image-based Roadside Tree 3D Measurement
+
+**Chen Long**, Zhen Dong, Bisheng Yang
+
+<span style="color:red">**Best Paper Award**</span>
+
+Paper, Code
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS J 2025</div><img src='https://a4152684.github.io/publication/freeseg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,9 +127,11 @@ PC²-PU: Patch Correlation and Point Correlation for Effective Point Cloud Upsam
 </div>
 
 # 🎖 Honors and Awards
+- *2025.06*, ISPRS MMT 2025, Best Paper Award.
 - *2024.10*, 获得武汉大学优秀研究生称号
 - *2024.05*, 中国第一届空间信息技术及产业发展大会 "优秀学生报告(硕博生)"。
 
 # 💬 Conference oral presentation
+- *2025.06*, ISPRS Mobile Mapping for Autonomous Systems and Spatial Intelligence 2025
 - *2024.05*, 中国第一届空间信息技术及产业发展大会
 - *2022.08*, 中国第七届计算机图形学与混合现实前沿研讨会
