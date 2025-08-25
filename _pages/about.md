@@ -24,7 +24,7 @@ My research interest lies in the field of 3D Computer Vision, particularly inclu
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 Our paper [WIN: Variable-View Implicit LIDAR Upsampling Network](https://github.com/zcliangyue/WIN) is accepted by TITS.
+- *2025.07*: &nbsp;🎉🎉 Our paper [WIN: Variable-View Implicit LIDAR Upsampling Network](https://doi.org/10.1109/TITS.2025.3595285) is accepted by TITS.
 - *2025.05*: &nbsp;🎉🎉 Our paper [Unleashing the Reasoning Capabilities of Vision Language Models for Effective Image-based
 Roadside Tree 3D Measurement](https://github.com/WHU-USI3DV) is accepted by ISPRS MMT 2025, and won the **Best Paper Award**!
 - *2025.02*: &nbsp;🎉🎉 Co-author paper [Cross-modal semantic transfer for point cloud semantic segmentation](https://doi.org/10.1016/j.isprsjprs.2025.01.024) is accepted by ISPRS J.
@@ -36,7 +36,7 @@ Roadside Tree 3D Measurement](https://github.com/WHU-USI3DV) is accepted by ISPR
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2025</div><img src='https://github.com/zcliangyue/WIN/blob/master/figures/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2025</div><img src='images/WIN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 WIN: Variable-View Implicit LIDAR Upsampling Network
@@ -45,7 +45,7 @@ Conglang Zhang<sup>*</sup>, **Chen Long**<sup>&dagger;</sup>, Hang Xu, Wenxiao Z
 
 <span style="color:red">**TITS 2025 (IF:8.4)**</span>
 
-Paper, [[Code]](https://github.com/zcliangyue/WIN)
+[[Paper]](https://doi.org/10.1109/TITS.2025.3595285), [[Code]](https://github.com/zcliangyue/WIN)
 </div>
 </div>
 
